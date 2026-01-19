@@ -1,4 +1,0 @@
-<FilesMatch "\.(msi)$">
-   ForceType application/octet-stream
-   Header set Content-Disposition attachment
-</FilesMatch>
